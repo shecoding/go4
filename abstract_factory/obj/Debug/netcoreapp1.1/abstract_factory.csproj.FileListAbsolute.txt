@@ -1,0 +1,8 @@
+/home/cassianopeixoto/Desktop/go4/abstract_factory/bin/Debug/netcoreapp1.1/abstract_factory.deps.json
+/home/cassianopeixoto/Desktop/go4/abstract_factory/bin/Debug/netcoreapp1.1/abstract_factory.runtimeconfig.json
+/home/cassianopeixoto/Desktop/go4/abstract_factory/bin/Debug/netcoreapp1.1/abstract_factory.runtimeconfig.dev.json
+/home/cassianopeixoto/Desktop/go4/abstract_factory/bin/Debug/netcoreapp1.1/abstract_factory.dll
+/home/cassianopeixoto/Desktop/go4/abstract_factory/bin/Debug/netcoreapp1.1/abstract_factory.pdb
+/home/cassianopeixoto/Desktop/go4/abstract_factory/obj/Debug/netcoreapp1.1/abstract_factory.AssemblyInfo.cs
+/home/cassianopeixoto/Desktop/go4/abstract_factory/obj/Debug/netcoreapp1.1/abstract_factory.dll
+/home/cassianopeixoto/Desktop/go4/abstract_factory/obj/Debug/netcoreapp1.1/abstract_factory.pdb
